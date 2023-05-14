@@ -1,7 +1,7 @@
 <h1 align="center">Hallo Welt 👋</h1>
 <h3 align="center">"Our guests have arrived. Let's make a good first impression, shall we?"</h3>
-<img align="right" alt="Hello World" width="400" src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif">
-<p align="left"> <img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" alt="invibeast" /> </p>
+<img align="right" alt="Hello World" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+<p align="left"> <img src= alt="invibeast" /> </p>
 
 - ⚡ Fun fact **Still Discovering Myself**
 
