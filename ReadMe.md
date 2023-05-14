@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayushman singh" target="blank"><img align="center" src="chrome://image/?staticEncode=true&encodeType=webp&url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_m2gExC_72-Jf4IYNc6fBDKsdd3GqJmXtnNoQRQ&s=10" alt="ayushman singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushman singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="ayushman singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
