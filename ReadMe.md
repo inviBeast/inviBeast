@@ -1,6 +1,6 @@
 <h1 align="center">Hallo Welt 👋</h1>
 <h3 align="center">"Our guests have arrived. Let's make a good first impression, shall we?"</h3>
-<img align="right" alt="Hello World" width="350" border-radius="20px" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+<img align="right" alt="Hello World" width="350" margin="20" border-radius="20" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invibeast&label=Profile%20views&color=0e75b6&style=flat" alt="invibeast" /> </p>
 
 - ⚡ Fun fact **Still Discovering Myself**
