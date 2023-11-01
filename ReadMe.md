@@ -17,4 +17,3 @@
 
 <a>[![An image of @invibeast's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/invibeast)](https://holopin.io/@invibeast)</a>
 
-<p> <img align="center" src="https://holopin.io/@invibeast"/> </p>
